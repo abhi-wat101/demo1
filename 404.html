@@ -46,13 +46,28 @@
     } */
     if ('serviceWorker' in navigator) {
       console.log("Will the service worker register?");
-      navigator.serviceWorker.register('service-worker.js')
+      navigator.serviceWorker.register('assets/service-worker.js')
         .then(function (reg) {
           console.log("Yes, it did.");
         }).catch(function (err) {
           console.log("No it didn't. This happened:", err)
         });
     }
+
+    // Initialize deferredPrompt for use later to show browser install prompt.
+    let deferredPrompt;
+
+    window.addEventListener('beforeinstallprompt', (e) => {
+      console.log("BEFOREX:", e);
+      // Prevent the mini-infobar from appearing on mobile
+      e.preventDefault();
+      // Stash the event so it can be triggered later.
+      deferredPrompt = e;
+      // Update UI notify the user they can install the PWA
+      // showInstallPromotion();
+      // Optionally, send analytics event that PWA install promo was shown.
+      console.log(`'beforeinstallprompt' event was fired.`);
+    });
   </script>
 <script type="text/javascript" src="runtime.26209474bfa8dc87a77c.js"></script><script type="text/javascript" src="es2015-polyfills.c7b0ec5002c11542cd45.js" nomodule></script><script type="text/javascript" src="polyfills.8bbb231b43165d65d357.js"></script><script type="text/javascript" src="scripts.345d8c48e6e85b43a67e.js"></script><script type="text/javascript" src="main.5cf16914539648e8c0a5.js"></script></body>
 
