@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1627230511684,
+  "timestamp": 1627230651866,
   "index": "https://abhi-wat101.github.io/demo1/index.html",
   "assetGroups": [
     {
@@ -17,7 +17,7 @@
         "https://abhi-wat101.github.io/demo1/manifest.webmanifest",
         "https://abhi-wat101.github.io/demo1/polyfills.12b09180c31a95efd622.js",
         "https://abhi-wat101.github.io/demo1/runtime.43bf3493b057b10a9e88.js",
-        "https://abhi-wat101.github.io/demo1/styles.2fd3d1354d62c22ee37d.css"
+        "https://abhi-wat101.github.io/demo1/styles.4d56a60bcd8163e49859.css"
       ],
       "patterns": []
     },
@@ -71,9 +71,7 @@
         "https://abhi-wat101.github.io/demo1/assets/policy/ItsMyPharma Privacy Policy_13032021.pdf",
         "https://abhi-wat101.github.io/demo1/assets/policy/ItsMyPharma Terms of Service_13032021.pdf",
         "https://abhi-wat101.github.io/demo1/assets/policy/Privacy Policy_09022021.pdf",
-        "https://abhi-wat101.github.io/demo1/assets/policy/Terms of Service_09022021.pdf",
-        "https://abhi-wat101.github.io/demo1/chevron-next.3113ef60c1edca34f35b.png",
-        "https://abhi-wat101.github.io/demo1/chevron-prev.dc08f9bb0a2d291cd0f8.png"
+        "https://abhi-wat101.github.io/demo1/assets/policy/Terms of Service_09022021.pdf"
       ],
       "patterns": []
     }
@@ -123,15 +121,13 @@
     "https://abhi-wat101.github.io/demo1/assets/policy/ItsMyPharma Terms of Service_13032021.pdf": "83e0cfa4d49f2f758d6e29a54e9a62641724295b",
     "https://abhi-wat101.github.io/demo1/assets/policy/Privacy Policy_09022021.pdf": "94b38d5963acbcc3a4aea5f9e45b3cbcd8b2c2e4",
     "https://abhi-wat101.github.io/demo1/assets/policy/Terms of Service_09022021.pdf": "b25ca333161795c63f4db9a94514a89b576d8d5c",
-    "https://abhi-wat101.github.io/demo1/chevron-next.3113ef60c1edca34f35b.png": "ea45dd8da90eccc3157a302d94027af063a85824",
-    "https://abhi-wat101.github.io/demo1/chevron-prev.dc08f9bb0a2d291cd0f8.png": "0ca1db796d71e1ca9fdd58bc9e24e3436d6ad425",
     "https://abhi-wat101.github.io/demo1/favicon.ico": "6fa0016d85e8f87912205a34b2a2048c307c0e6c",
-    "https://abhi-wat101.github.io/demo1/index.html": "a29ffa67992dfeb44dd1e2f68eac640387caa6dc",
+    "https://abhi-wat101.github.io/demo1/index.html": "40993c43a5715f7520f94a97b93cee85b6a1b827",
     "https://abhi-wat101.github.io/demo1/main.44bb097981ebb29b73ac.js": "7cd37151b82a86cd1629a64010059dae1e56924e",
     "https://abhi-wat101.github.io/demo1/manifest.webmanifest": "2b154e6ecef3fc29e6f5b9c5d308be4c83c7b274",
     "https://abhi-wat101.github.io/demo1/polyfills.12b09180c31a95efd622.js": "8ed5fbfa55062f9550a80804b8857b4b63738fab",
     "https://abhi-wat101.github.io/demo1/runtime.43bf3493b057b10a9e88.js": "8d9de8985926ef99d8684c6a812efe2fe3ea462d",
-    "https://abhi-wat101.github.io/demo1/styles.2fd3d1354d62c22ee37d.css": "56f9a90f26f9d1a397705a3e18e13078732b187f"
+    "https://abhi-wat101.github.io/demo1/styles.4d56a60bcd8163e49859.css": "9849bf98a7c57496f9b1a8b5c918d33dfc27d861"
   },
   "navigationUrls": [
     {
