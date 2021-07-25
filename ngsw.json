@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1627230311365,
+  "timestamp": 1627230511684,
   "index": "https://abhi-wat101.github.io/demo1/index.html",
   "assetGroups": [
     {
@@ -17,8 +17,7 @@
         "https://abhi-wat101.github.io/demo1/manifest.webmanifest",
         "https://abhi-wat101.github.io/demo1/polyfills.12b09180c31a95efd622.js",
         "https://abhi-wat101.github.io/demo1/runtime.43bf3493b057b10a9e88.js",
-        "https://abhi-wat101.github.io/demo1/scripts.5ecbcd3c04814cc0c85b.js",
-        "https://abhi-wat101.github.io/demo1/styles.e42d59c68ff1b657ae54.css"
+        "https://abhi-wat101.github.io/demo1/styles.2fd3d1354d62c22ee37d.css"
       ],
       "patterns": []
     },
@@ -74,23 +73,7 @@
         "https://abhi-wat101.github.io/demo1/assets/policy/Privacy Policy_09022021.pdf",
         "https://abhi-wat101.github.io/demo1/assets/policy/Terms of Service_09022021.pdf",
         "https://abhi-wat101.github.io/demo1/chevron-next.3113ef60c1edca34f35b.png",
-        "https://abhi-wat101.github.io/demo1/chevron-prev.dc08f9bb0a2d291cd0f8.png",
-        "https://abhi-wat101.github.io/demo1/fa-brands-400.216edb96b562c79adc09.svg",
-        "https://abhi-wat101.github.io/demo1/fa-brands-400.329a95a9172fdb2cccb4.woff",
-        "https://abhi-wat101.github.io/demo1/fa-brands-400.89a52ae1d02b86d61439.eot",
-        "https://abhi-wat101.github.io/demo1/fa-brands-400.9e138496e8f1719c6ebf.ttf",
-        "https://abhi-wat101.github.io/demo1/fa-brands-400.c1210e5ebe4344da5083.woff2",
-        "https://abhi-wat101.github.io/demo1/fa-regular-400.1017bce89c72f95bcf8e.ttf",
-        "https://abhi-wat101.github.io/demo1/fa-regular-400.19e27d348fefc21941e0.svg",
-        "https://abhi-wat101.github.io/demo1/fa-regular-400.3672264812746c3c7225.woff",
-        "https://abhi-wat101.github.io/demo1/fa-regular-400.4079ae2d2a15d0689568.eot",
-        "https://abhi-wat101.github.io/demo1/fa-regular-400.68c5af1f48e2bfca1e57.woff2",
-        "https://abhi-wat101.github.io/demo1/fa-solid-900.07c3313b24f7b1ca85ee.ttf",
-        "https://abhi-wat101.github.io/demo1/fa-solid-900.13de59f1a36b6cb4bca0.svg",
-        "https://abhi-wat101.github.io/demo1/fa-solid-900.ada6e6df937f7e5e8b79.woff2",
-        "https://abhi-wat101.github.io/demo1/fa-solid-900.c6ec080084769a6d8a34.woff",
-        "https://abhi-wat101.github.io/demo1/fa-solid-900.efbd5d20e407bbf85f2b.eot",
-        "https://abhi-wat101.github.io/demo1/owl.video.play.7f01b07148f205f6e825.png"
+        "https://abhi-wat101.github.io/demo1/chevron-prev.dc08f9bb0a2d291cd0f8.png"
       ],
       "patterns": []
     }
@@ -142,30 +125,13 @@
     "https://abhi-wat101.github.io/demo1/assets/policy/Terms of Service_09022021.pdf": "b25ca333161795c63f4db9a94514a89b576d8d5c",
     "https://abhi-wat101.github.io/demo1/chevron-next.3113ef60c1edca34f35b.png": "ea45dd8da90eccc3157a302d94027af063a85824",
     "https://abhi-wat101.github.io/demo1/chevron-prev.dc08f9bb0a2d291cd0f8.png": "0ca1db796d71e1ca9fdd58bc9e24e3436d6ad425",
-    "https://abhi-wat101.github.io/demo1/fa-brands-400.216edb96b562c79adc09.svg": "24aff44d36f6c4a6a08230474b546b29641c75d6",
-    "https://abhi-wat101.github.io/demo1/fa-brands-400.329a95a9172fdb2cccb4.woff": "5f8cab91347c553c1eb87f9b527f6bee8a28e40d",
-    "https://abhi-wat101.github.io/demo1/fa-brands-400.89a52ae1d02b86d61439.eot": "a400bc89d3cb4d45a3b90791800587a1e4ebafa6",
-    "https://abhi-wat101.github.io/demo1/fa-brands-400.9e138496e8f1719c6ebf.ttf": "3fa2d67cef22da5c3f3eb5730c6afbd6fecf0372",
-    "https://abhi-wat101.github.io/demo1/fa-brands-400.c1210e5ebe4344da5083.woff2": "fce0da592a3e536d6d5df5b50cb513398d8c5161",
-    "https://abhi-wat101.github.io/demo1/fa-regular-400.1017bce89c72f95bcf8e.ttf": "7d849a3981a716e2ba4a84634bc57d0b8054a6a3",
-    "https://abhi-wat101.github.io/demo1/fa-regular-400.19e27d348fefc21941e0.svg": "8d0198777d4c6ff9c39a387f212b4ef732f70abb",
-    "https://abhi-wat101.github.io/demo1/fa-regular-400.3672264812746c3c7225.woff": "d33d8b5b15b7bba2cc17190dc685fe0a76d2989e",
-    "https://abhi-wat101.github.io/demo1/fa-regular-400.4079ae2d2a15d0689568.eot": "894064dfd376fc245fe654723d6c81f625e01363",
-    "https://abhi-wat101.github.io/demo1/fa-regular-400.68c5af1f48e2bfca1e57.woff2": "0447c6b10bbf73f97b23dcfd6e6a48510822cb6e",
-    "https://abhi-wat101.github.io/demo1/fa-solid-900.07c3313b24f7b1ca85ee.ttf": "c1b9fae262f42868c075ac865a8ab34920e20a2c",
-    "https://abhi-wat101.github.io/demo1/fa-solid-900.13de59f1a36b6cb4bca0.svg": "33fe5758f3992d8da2635c4fa230b54376dd18d1",
-    "https://abhi-wat101.github.io/demo1/fa-solid-900.ada6e6df937f7e5e8b79.woff2": "a9922842a120a7f1eaced667480c5e185a106d69",
-    "https://abhi-wat101.github.io/demo1/fa-solid-900.c6ec080084769a6d8a34.woff": "52751432ded489dfdf27fb1cf64c570c4c27a1d7",
-    "https://abhi-wat101.github.io/demo1/fa-solid-900.efbd5d20e407bbf85f2b.eot": "b18bdd10beee0a20231aa4c9ea11e84a9307a4fd",
     "https://abhi-wat101.github.io/demo1/favicon.ico": "6fa0016d85e8f87912205a34b2a2048c307c0e6c",
-    "https://abhi-wat101.github.io/demo1/index.html": "db6677e2aa4abd1be6cf02f6fda96082d2279e47",
+    "https://abhi-wat101.github.io/demo1/index.html": "a29ffa67992dfeb44dd1e2f68eac640387caa6dc",
     "https://abhi-wat101.github.io/demo1/main.44bb097981ebb29b73ac.js": "7cd37151b82a86cd1629a64010059dae1e56924e",
     "https://abhi-wat101.github.io/demo1/manifest.webmanifest": "2b154e6ecef3fc29e6f5b9c5d308be4c83c7b274",
-    "https://abhi-wat101.github.io/demo1/owl.video.play.7f01b07148f205f6e825.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "https://abhi-wat101.github.io/demo1/polyfills.12b09180c31a95efd622.js": "8ed5fbfa55062f9550a80804b8857b4b63738fab",
     "https://abhi-wat101.github.io/demo1/runtime.43bf3493b057b10a9e88.js": "8d9de8985926ef99d8684c6a812efe2fe3ea462d",
-    "https://abhi-wat101.github.io/demo1/scripts.5ecbcd3c04814cc0c85b.js": "0d0eec7c8408c5c50fa355bd00ac9e8792612aa4",
-    "https://abhi-wat101.github.io/demo1/styles.e42d59c68ff1b657ae54.css": "7cab8586df60d0b8340554743248ae0573d3efcf"
+    "https://abhi-wat101.github.io/demo1/styles.2fd3d1354d62c22ee37d.css": "56f9a90f26f9d1a397705a3e18e13078732b187f"
   },
   "navigationUrls": [
     {
