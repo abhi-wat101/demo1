@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1627224594789,
+  "timestamp": 1627224885864,
   "index": "https://abhi-wat101.github.io/demo1/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "https://abhi-wat101.github.io/demo1/es2015-polyfills.c7b0ec5002c11542cd45.js",
         "https://abhi-wat101.github.io/demo1/favicon.ico",
         "https://abhi-wat101.github.io/demo1/index.html",
-        "https://abhi-wat101.github.io/demo1/main.bb70152f20938756735b.js",
+        "https://abhi-wat101.github.io/demo1/main.cde8c447264c98ce1def.js",
         "https://abhi-wat101.github.io/demo1/manifest.webmanifest",
         "https://abhi-wat101.github.io/demo1/polyfills.8bbb231b43165d65d357.js",
         "https://abhi-wat101.github.io/demo1/runtime.26209474bfa8dc87a77c.js",
@@ -156,9 +156,9 @@
     "https://abhi-wat101.github.io/demo1/fa-solid-900.260d033f79f75d670fd0.ttf": "54a19042f3232f6b58df80f01b4b018a11868096",
     "https://abhi-wat101.github.io/demo1/fa-solid-900.4bfbf7eb4b19d9ff9293.woff": "18d9a334e7184ae08e3a1c0468afb56a2a5b51cc",
     "https://abhi-wat101.github.io/demo1/fa-solid-900.9ae050d1876ac1763eb6.woff2": "72344eab2e7431eec313caa21f266cbfda7caf60",
-    "https://abhi-wat101.github.io/demo1/favicon.ico": "6fa0016d85e8f87912205a34b2a2048c307c0e6c",
-    "https://abhi-wat101.github.io/demo1/index.html": "953cc534886b4c5ad3addb2c6932945204ca8e76",
-    "https://abhi-wat101.github.io/demo1/main.bb70152f20938756735b.js": "83dc69c3d93c52a12a3afba024f29a73f0a4e4e2",
+    "https://abhi-wat101.github.io/demo1/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://abhi-wat101.github.io/demo1/index.html": "8d210dede5c13c738e06ad96350c865a8f62446a",
+    "https://abhi-wat101.github.io/demo1/main.cde8c447264c98ce1def.js": "e9976b2208dfec2e09a8ad0db2e67197748ea5ae",
     "https://abhi-wat101.github.io/demo1/manifest.webmanifest": "e68008b29095252101952339e94460eedc584d66",
     "https://abhi-wat101.github.io/demo1/owl.video.play.4a37f8008959c75f619b.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "https://abhi-wat101.github.io/demo1/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
