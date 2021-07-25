@@ -37,6 +37,6 @@
       "purpose": "any maskable"
     }
   ],
-  "start_url": "/",
+  "start_url": "/demo1",
   "scope": "/"
 }
