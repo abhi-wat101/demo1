@@ -4,6 +4,7 @@
   "theme_color": "#4A90E2",
   "background_color": "#F7F8F9",
   "display": "standalone",
+  "prefer_related_applications": true,
   "icons": [
     {
       "src": "assets/icons/icon-48x48.png",
@@ -24,6 +25,11 @@
       "src": "assets/icons/icon-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
+    },
+    {
+      "src": "assets/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
   "start_url": "/?utm_source=launcher"
