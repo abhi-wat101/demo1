@@ -2,36 +2,46 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="description" content="Base Angular 6 PWA">
-  <meta name="keywords" content="Angular, PWA">
+  <title>ItsMyPharma</title>
+  <base href="https://abhi-wat101.github.io/demo1/">  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="/assets/images/Fav_1_32_32.png">
+  <!-- <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet"> -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&amp;display=swap" rel="stylesheet">
+  <link href="./assets/add-to-homescreen/style/addtohomescreen.css">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <!--  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8PEG6H5FVK"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-  <title>Add To Home Screen (A2HS) Test</title>
-  <base href="https://abhi-wat101.github.io/demo1/">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" type="image/x-icon" href="favicon.ico">
-  <link rel="manifest" href="manifest.json">
+    gtag('config', 'G-8PEG6H5FVK');
+  </script> -->
+  <!-- <link rel="manifest" href="manifest.json"> -->
   <meta name="theme-color" content="#1976d2">
 
-  <link rel="apple-touch-icon" href="assets/icons/touch-icon-iphone.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="assets/icons/touch-icon-ipad.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/touch-icon-iphone-retina.png">
-  <link rel="apple-touch-icon" sizes="167x167" href="assets/icons/touch-icon-ipad-retina.png">
-
-
+  <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="#ffffff">
-  <meta name="apple-mobile-web-app-title" content="A2HS Test">
-  <link rel="apple-touch-startup-image" href="assets/splash/apple_splash_640.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
-  <link rel="apple-touch-startup-image" href="assets/splash/apple_splash_750.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
-  <link rel="apple-touch-startup-image" href="assets/splash/apple_splash_1242.png" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
-  <link rel="apple-touch-startup-image" href="assets/splash/apple_splash_1125.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
-  <link rel="apple-touch-startup-image" href="assets/splash/apple_splash_1536.png" media="(min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)">
-  <link rel="apple-touch-startup-image" href="assets/splash/apple_splash_1668.png" media="(min-device-width: 834px) and (max-device-width: 834px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)">
-  <link rel="apple-touch-startup-image" href="assets/splash/apple_splash_2048.png" media="(min-device-width: 1024px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="ItsMyPharma">
 
 <link rel="stylesheet" href="styles.c9c8d8e771c2db4faa72.css"></head>
-<body>
+<body class="body-class-name">
   <app-root></app-root>
-  <noscript>JavaScript required to view site</noscript>
-<script type="text/javascript" src="runtime.26209474bfa8dc87a77c.js"></script><script type="text/javascript" src="es2015-polyfills.c7b0ec5002c11542cd45.js" nomodule></script><script type="text/javascript" src="polyfills.8bbb231b43165d65d357.js"></script><script type="text/javascript" src="scripts.345d8c48e6e85b43a67e.js"></script><script type="text/javascript" src="main.eba1f4723a675c8466ed.js"></script></body>
+  <noscript>Please enable JavaScript to continue using this application.</noscript>
+  <script src="./assets/add-to-homescreen/src/addtohomescreen.js" type="text/javascript"></script>
+  <script>
+    if(
+      (("standalone" in window.navigator) && !window.navigator.standalone)  // ios
+      || 
+      (!window.matchMedia('(display-mode: standalone)').matches)  // android
+    ) {
+      addToHomescreen();
+    }
+  </script>
+<script type="text/javascript" src="runtime.26209474bfa8dc87a77c.js"></script><script type="text/javascript" src="es2015-polyfills.c7b0ec5002c11542cd45.js" nomodule></script><script type="text/javascript" src="polyfills.8bbb231b43165d65d357.js"></script><script type="text/javascript" src="scripts.345d8c48e6e85b43a67e.js"></script><script type="text/javascript" src="main.f0915a30912e7fdddcef.js"></script></body>
 </html>
