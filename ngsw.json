@@ -14,6 +14,7 @@
         "https://abhi-wat101.github.io/demo1/polyfills.8bbb231b43165d65d357.js",
         "https://abhi-wat101.github.io/demo1/runtime.26209474bfa8dc87a77c.js",
         "https://abhi-wat101.github.io/demo1/scripts.345d8c48e6e85b43a67e.js",
+        "https://abhi-wat101.github.io/demo1/service-worker.js",
         "https://abhi-wat101.github.io/demo1/styles.c9c8d8e771c2db4faa72.css"
       ],
       "patterns": []
@@ -188,6 +189,7 @@
     "https://abhi-wat101.github.io/demo1/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "https://abhi-wat101.github.io/demo1/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "https://abhi-wat101.github.io/demo1/scripts.345d8c48e6e85b43a67e.js": "18a0e7a10a9cce5f463bf6b46217d07efefd433c",
+    "https://abhi-wat101.github.io/demo1/service-worker.js": "c854d81c9705f90671c8f5d2e594bc9666d9dec5",
     "https://abhi-wat101.github.io/demo1/styles.c9c8d8e771c2db4faa72.css": "31db749691f9f9461faa4aec36e58c521c3c3adf"
   },
   "navigationUrls": [
