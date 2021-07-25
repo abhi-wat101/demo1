@@ -32,5 +32,6 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/?utm_source=launcher"
+  "start_url": "/?utm_source=launcher",
+  "scope": "https://abhi-wat101.github.io/demo1/"
 }
