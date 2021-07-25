@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1627228507751,
+  "timestamp": 1627228878612,
   "index": "https://abhi-wat101.github.io/demo1/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://abhi-wat101.github.io/demo1/favicon.ico",
         "https://abhi-wat101.github.io/demo1/index.html",
-        "https://abhi-wat101.github.io/demo1/main.f9b2cd6d7b7270bc7d50.js",
+        "https://abhi-wat101.github.io/demo1/main.8abd53662ba435a5239e.js",
         "https://abhi-wat101.github.io/demo1/manifest.webmanifest",
         "https://abhi-wat101.github.io/demo1/polyfills.12b09180c31a95efd622.js",
         "https://abhi-wat101.github.io/demo1/runtime.43bf3493b057b10a9e88.js",
@@ -29,6 +29,10 @@
         "ignoreVary": true
       },
       "urls": [
+        "https://abhi-wat101.github.io/demo1/assets/icons/apple-touch-icon-ipad-76x76.png",
+        "https://abhi-wat101.github.io/demo1/assets/icons/apple-touch-icon-ipad-retina-152x152.png",
+        "https://abhi-wat101.github.io/demo1/assets/icons/apple-touch-icon-iphone-60x60.png",
+        "https://abhi-wat101.github.io/demo1/assets/icons/apple-touch-icon-iphone-retina-120x120.png",
         "https://abhi-wat101.github.io/demo1/assets/icons/icon-128x128.png",
         "https://abhi-wat101.github.io/demo1/assets/icons/icon-144x144.png",
         "https://abhi-wat101.github.io/demo1/assets/icons/icon-152x152.png",
@@ -43,6 +47,10 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "https://abhi-wat101.github.io/demo1/assets/icons/apple-touch-icon-ipad-76x76.png": "56df2b59dd8a8544348d26953dfed5c4ca132342",
+    "https://abhi-wat101.github.io/demo1/assets/icons/apple-touch-icon-ipad-retina-152x152.png": "0ecca929d2b4fc958bf9d3a9e7179a4df009c0f5",
+    "https://abhi-wat101.github.io/demo1/assets/icons/apple-touch-icon-iphone-60x60.png": "70ab1a5e88b6a5314541f065b9e9281f476e59b6",
+    "https://abhi-wat101.github.io/demo1/assets/icons/apple-touch-icon-iphone-retina-120x120.png": "a521f1897354bdbdeb5663c34ae2098c239c63c9",
     "https://abhi-wat101.github.io/demo1/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "https://abhi-wat101.github.io/demo1/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "https://abhi-wat101.github.io/demo1/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -52,8 +60,8 @@
     "https://abhi-wat101.github.io/demo1/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://abhi-wat101.github.io/demo1/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://abhi-wat101.github.io/demo1/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://abhi-wat101.github.io/demo1/index.html": "5dc699449922c7f65f9c59fb6d0ace4e91342ac9",
-    "https://abhi-wat101.github.io/demo1/main.f9b2cd6d7b7270bc7d50.js": "b2d846c967e14560d4b150cf8c250a30d7310620",
+    "https://abhi-wat101.github.io/demo1/index.html": "c3b9dce937b394c6fd5f915ec1cc9f294e4ea3db",
+    "https://abhi-wat101.github.io/demo1/main.8abd53662ba435a5239e.js": "824497a5c62a470b0048bbc0977250cbc2dc44b3",
     "https://abhi-wat101.github.io/demo1/manifest.webmanifest": "2b154e6ecef3fc29e6f5b9c5d308be4c83c7b274",
     "https://abhi-wat101.github.io/demo1/polyfills.12b09180c31a95efd622.js": "8ed5fbfa55062f9550a80804b8857b4b63738fab",
     "https://abhi-wat101.github.io/demo1/runtime.43bf3493b057b10a9e88.js": "8d9de8985926ef99d8684c6a812efe2fe3ea462d",
