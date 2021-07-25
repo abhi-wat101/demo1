@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1627218907309,
+  "timestamp": 1627219274700,
   "index": "https://abhi-wat101.github.io/demo1/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://abhi-wat101.github.io/demo1/favicon.ico",
         "https://abhi-wat101.github.io/demo1/index.html",
-        "https://abhi-wat101.github.io/demo1/main.bfd089ca5b6d878d01cd.js",
+        "https://abhi-wat101.github.io/demo1/main.83e50e41870f2840163c.js",
         "https://abhi-wat101.github.io/demo1/manifest.webmanifest",
         "https://abhi-wat101.github.io/demo1/polyfills.7ce24d0c095b84348118.js",
         "https://abhi-wat101.github.io/demo1/runtime.372ec9e6a2b21940e124.js",
@@ -60,8 +60,8 @@
     "https://abhi-wat101.github.io/demo1/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://abhi-wat101.github.io/demo1/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://abhi-wat101.github.io/demo1/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://abhi-wat101.github.io/demo1/index.html": "28de1a40e3b591a93be20038e842bcdc20187cae",
-    "https://abhi-wat101.github.io/demo1/main.bfd089ca5b6d878d01cd.js": "62cc3a5ab9d00994b24bfad5301bb41e2c3f07bf",
+    "https://abhi-wat101.github.io/demo1/index.html": "433864626185a3eb31f502c29b549935113507a2",
+    "https://abhi-wat101.github.io/demo1/main.83e50e41870f2840163c.js": "198e058738b76692e091e3b25d4546f7367a194f",
     "https://abhi-wat101.github.io/demo1/manifest.webmanifest": "1fa7a8d25bff48f999db47766c7c508f3f550fd4",
     "https://abhi-wat101.github.io/demo1/polyfills.7ce24d0c095b84348118.js": "c98c911da9a3cbf9b8dac1f57d1f52956faca25a",
     "https://abhi-wat101.github.io/demo1/runtime.372ec9e6a2b21940e124.js": "005b34861368ed54c273744e531205d8039a88a1",
